@@ -7,7 +7,7 @@
     - default set to 0(zero)
     - anything greater than zero puts ITEM selected on then END/right
 
-# Flexbox > Alignment & Centering w/ justify-content
+# Flexbox > Alignment & Centering w/ Justify-Content
 
     > Justitify-Content how the ITEMS aligned on Main Axis (l to r)
         - Cross Axis (top to bottom)
@@ -21,4 +21,20 @@
             flex-direction: column;
             justify-content: center;
             min-height: __vh;
+
+# Flexbox > Alignment & Centering w/ Align-Items
+    - concerned with Cross Axis
+    - ** needs > height: __vh
+
+    -VERTICALLY centering
+
+    - baseline: 
+
+    - ex: 
+        display:flex;
+        height: __vh;
+        flex-direction: column;
+        align-items: ___
+
+
 
