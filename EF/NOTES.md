@@ -23,7 +23,7 @@
             min-height: __vh;
 
 # Flexbox > Alignment & Centering w/ Align-Items
-    - concerned with Cross Axis
+    - concerned with Cross Axis (top to bottom)
     - ** needs > height: __vh
 
     -VERTICALLY centering
@@ -35,6 +35,12 @@
         height: __vh;
         flex-direction: column;
         align-items: ___
+
+# Flexbox > Alignment & Centering w/ Align-Content
+    - concerned with the Cross axis (top to bottom)
+        -  Centers VERTICALLY
+    - needs > flex-wrap: wrap
+    - align-content: stretch === DEFAULT
 
 
 
