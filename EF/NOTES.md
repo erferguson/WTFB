@@ -37,10 +37,16 @@
         align-items: ___
 
 # Flexbox > Alignment & Centering w/ Align-Content
-    - concerned with the Cross axis (top to bottom)
+    - concerned with the CROSS AXIS (top to bottom)
         -  Centers VERTICALLY
     - needs > flex-wrap: wrap
     - align-content: stretch === DEFAULT
 
+# Flexbox > Alignment & Centering w/ Align-Self
+    - best applied to an individual ITEM rather than CONTAINER
+        - apply attributes individually
+    
+    -this end would OVERRIDE the CONTAINER/parent rule
 
+    -concerned with the CROSS AXIS (t to b)
 
