@@ -65,5 +65,8 @@
 
     - ** RECOMMENDED use > flex:G S B; the shorthand
 
+# Flexbox > How FB FLEX-BASIS & WRAPPING work together
+    - 
+
 
 
