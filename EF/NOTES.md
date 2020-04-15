@@ -50,3 +50,11 @@
 
     -concerned with the CROSS AXIS (t to b)
 
+# Flexbox > Understanding FB sizing w/ Flex-Property
+    - goes on individual FLEX ITEM
+
+    -flex:__ (number); > divys up space proportionally 
+
+
+
+
