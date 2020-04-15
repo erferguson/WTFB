@@ -53,8 +53,17 @@
 # Flexbox > Understanding FB sizing w/ Flex-Property
     - goes on individual FLEX ITEM
 
-    -flex:__ (number); > divys up space proportionally 
+    - flex is shorthand for flex-GROW, flex-SHRINK, flex-BASIS COMBINED
+          G S  B
+    -flex:1 1 400px; > divys up space proportionally 
 
+# Flexbox > Understanding FB FLEX-GROW, FLEX-SHRINK, & FLEX-BASIS
+    - flex: __; incorporates 
+        > flex-grow: __; 
+        > flex-shrink: __;
+        > flex-basis: __: 
+
+    - ** RECOMMENDED use > flex:G S B; the shorthand
 
 
 
