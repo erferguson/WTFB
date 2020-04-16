@@ -1,0 +1,26 @@
+{
+  "name": "wtfb",
+  "version": "1.0.0",
+  "description": "![](https://flexbox.io/images/WTF/share.png)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-autoprefixer": "^7.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erferguson/WTFB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erferguson/WTFB/issues"
+  },
+  "homepage": "https://github.com/erferguson/WTFB#readme"
+}
